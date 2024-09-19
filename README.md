@@ -1,3 +1,3 @@
 # op-zk-identity-toolkit
 
-This repository contains the milestones delivery of our optimism-ready ZK Identity Toolkit
+This repository contains the delivery and tracking of milestones for the **ZK Toolkit for ZK Application Developers** Optimism Mission Request.
